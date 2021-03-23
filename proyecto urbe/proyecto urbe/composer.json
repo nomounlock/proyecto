@@ -1,0 +1,10 @@
+{
+    "name": "urbe/medicina",
+    "description": "proyecto para programaci\u0000n web",
+    "type": "project",
+    "require": {
+        "spipu/html2pdf": "^5.2",
+        "phpmailer/phpmailer": "^6.3"
+    },
+    "license": "urbe"
+}
